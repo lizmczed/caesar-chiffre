@@ -11,7 +11,7 @@ public class ContinuousEncryptionHandler {
     final boolean exit = false;
     while (!exit) {
       String input = consoleReader.fetchNextInput();
-      String output = Encryptor.encrypt(input);
+      String output = Encryptor.encrypt(input.substring(0, input.length() - 1));
       handleInputOutput(input, output);
     }
   }
