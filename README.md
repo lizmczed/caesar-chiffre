@@ -2,6 +2,10 @@
 
 # M3: Kryptographie
 
+## Vorbereitung
+Falls Du noch keine IDE (Entwicklungsumgebung) hast, empfehle ich IntelliJ IDEA. Lade dir die Community-Version herunter: https://www.jetbrains.com/de-de/idea/download/#section=windows
+In der IDE kannst Du Code-Projekte anlegen, kompilieren und ausführen. Sie enthält viele Tools die die Softwareentwicklung erleichtern.
+
 ## Aufgabe
 
 Du sitzt am Rechner und hast Zugang zum Internet. Damit liegt das gesammelte Wissen der Menschheit liegt unter Deinen Fingern!
